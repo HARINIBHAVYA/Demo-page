@@ -1,0 +1,55 @@
+
+
+.container {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.card {
+  margin: 1rem auto;
+  padding: 2rem;
+  border: 3px solid #ccc;
+  border-radius: 8px;
+  border-color: black;
+  width: 300px;
+  background-color:lightsteelblue;
+}
+
+input {
+  padding: 0.5rem;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+h1{
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background-color: lightgrey;
+
+}
+
+
+/* Rounded corners */
+.rounded {
+  border-radius: 8px;
+}
+
+/* Pill shape */
+.pill {
+  border-radius: 50px;
+}
+
+.submitted-input {
+  border: 2px solid green;
+  background-color: #e6ffe6;
+  font-weight: bold;
+  color: #2d6a4f;
+}
