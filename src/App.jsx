@@ -19,7 +19,7 @@ function App() {
 
   const handleIncrement = () => {
     if (count >= 10) {
-      setCountMessage('👻👻 Maximum count reached 👻👻');
+      setCountMessage('👻👻Maximum count reached 👻👻');
       return;
     }
 
